@@ -1,7 +1,7 @@
 ![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
 <h1 align="center">Hi 👋, I'm Manimoy Nath Bhowmik</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manimoynathbhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="manimoynathbhowmik" /> </p>
 
 - 🔭 I’m currently working on **Backend Projects**
